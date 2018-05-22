@@ -11,7 +11,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 <meta name="HandheldFriendly" content="true" />
 <meta name="google-site-verification" content="ZkFgaVcUEQ5HhjAA8-LOBUfcOY8Fh2PqiBqvM2xcFk0" />
-<meta name="description" content="<tiles:insertAttribute name="page_description" ignore="true"/>"/>
+<meta name="description" content="tiles:insertAttribute name="page_description" ignore="true"/>
 
 <title>Landing Page</title>
 
